@@ -14,9 +14,6 @@ Java-DSA-Practice/
 ├── Strings/
 ├── Recursion/
 ├── LinkedList/
-├── Trees/
-├── Hashing/
-├── BitManipulation/
 ├── README.md
 
 
@@ -35,7 +32,7 @@ Java-DSA-Practice/
 
 | Category           | Topics Covered                                |
 |--------------------|-----------------------------------------------|
-| ✅ Arrays           | Max/Min, Prefix Sum, Kadane's Algorithm       |
+| ✅ Arrays           | Max/Min
 | 🔍 Searching        | Binary Search, Linear Search, Peak Element    |
 | 🔁 Sorting          | Bubble, Selection, Merge Sort, Quick Sort     |
 | 🔠 Strings          | Palindrome, Pattern Matching, StringBuilder   |
